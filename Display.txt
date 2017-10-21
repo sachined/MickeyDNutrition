@@ -1,0 +1,150 @@
+Food: Apple_Pie
+Calories: 230
+Fats: 10
+Carbs: 32
+Proteins: 2
+
+Food: Boba
+Calories: 51
+Fats: 5
+Carbs: 2
+Proteins: 8
+
+Food: Cheebi_Nuggets
+Calories: 100
+Fats: 23
+Carbs: 25
+Proteins: 31
+
+Food: Coke
+Calories: 170
+Fats: 0
+Carbs: 47
+Proteins: 0
+
+Food: Chocolate_Chip_Cookie
+Calories: 170
+Fats: 7
+Carbs: 23
+Proteins: 2
+
+Food: Crispy_Chicken_Sandwich
+Calories: 570
+Fats: 23
+Carbs: 64
+Proteins: 28
+
+Food: Fudge_Sundae
+Calories: 330
+Fats: 10
+Carbs: 42
+Proteins: 8
+
+Food: Egg_White_McMuffin
+Calories: 260
+Fats: 8
+Carbs: 29
+Proteins: 16
+
+Food: Grilled_Chicken_Sandwich
+Calories: 380
+Fats: 7
+Carbs: 44
+Proteins: 37
+
+Food: Hash_Brown
+Calories: 150
+Fats: 9
+Carbs: 16
+Proteins: 1
+
+Food: Large_Fries
+Calories: 510
+Fats: 24
+Carbs: 66
+Proteins: 7
+
+Food: McChicken
+Calories: 350
+Fats: 15
+Carbs: 40
+Proteins: 15
+
+Food: Hot_Cakes
+Calories: 600
+Fats: 16
+Carbs: 102
+Proteins: 9
+
+Food: Grand_Mac
+Calories: 860
+Fats: 52
+Carbs: 62
+Proteins: 41
+
+Food: Oreo_McFlurry
+Calories: 520
+Fats: 17
+Carbs: 60
+Proteins: 12
+
+Food: Medium_Fries
+Calories: 340
+Fats: 16
+Carbs: 44
+Proteins: 4
+
+Food: McDouble
+Calories: 380
+Fats: 18
+Carbs: 34
+Proteins: 23
+
+Food: Sweet_Tea
+Calories: 110
+Fats: 0
+Carbs: 28
+Proteins: 0
+
+Food: Vanilla_Shake
+Calories: 510
+Fats: 15
+Carbs: 64
+Proteins: 11
+
+Food: Vanilla_Cone
+Calories: 200
+Fats: 5
+Carbs: 23
+Proteins: 5
+
+Food: Yogurt_Parfait
+Calories: 150
+Fats: 2
+Carbs: 30
+Proteins: 4
+
+Food: Small_Fries
+Calories: 230
+Fats: 11
+Carbs: 29
+Proteins: 3
+
+Food: Sausage_McGriddle
+Calories: 430
+Fats: 24
+Carbs: 42
+Proteins: 11
+
+Food: Quarter_Pounder
+Calories: 530
+Fats: 27
+Carbs: 41
+Proteins: 31
+
+Food: Big_Mac
+Calories: 540
+Fats: 28
+Carbs: 46
+Proteins: 25
+
